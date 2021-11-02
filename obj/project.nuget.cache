@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "HM6RNaNe5FVM/V6OeBHYpXaXQbWlDQmloXDiHBTBEhW9Aytrg4PV667knBuMquQuPLHylAEgk3O9D0cgRUFJWw==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\WebApplication6\\WebApplication6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vlast\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.11\\microsoft.aspnetcore.authorization.5.0.11.nupkg.sha512",
+    "C:\\Users\\vlast\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.11\\microsoft.aspnetcore.components.5.0.11.nupkg.sha512",
+    "C:\\Users\\vlast\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\5.0.11\\microsoft.aspnetcore.components.analyzers.5.0.11.nupkg.sha512",
+    "C:\\Users\\vlast\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\5.0.11\\microsoft.aspnetcore.components.authorization.5.0.11.nupkg.sha512",
+    "C:\\Users\\vlast\\.nuget\\packages\\microsoft.aspnetcore.metadata\\5.0.11\\microsoft.aspnetcore.metadata.5.0.11.nupkg.sha512",
+    "C:\\Users\\vlast\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\vlast\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\vlast\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\vlast\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

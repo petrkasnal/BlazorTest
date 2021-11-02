@@ -1,0 +1,17 @@
+﻿@page "/fetchdata"
+
+@using WebApplication6.Data
+
+<button class="btn btn-dark" @onclick="ChangeID">Switch</button>
+
+@code {
+
+    [Inject] private AuthenticationStateProvider authenticationStateProvider { get; set; }
+
+    private DumbAuthenticationStateProvider myAuthenticationStateProvider => authenticationStateProvider as DumbAuthenticationStateProvider;
+
+    private async Task ChangeID()
+    {
+        await myAuthenticationStateProvider.ChangeIdentity();
+    }
+}
